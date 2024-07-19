@@ -1,7 +1,7 @@
 import google.generativeai as genai
 
-# Replace with your actual API key
-genai.configure(api_key="YOUR_API_KEY")
+
+genai.configure(api_key="AIzaSyADAzhsx3WDJmLwg5KPi_joaDzyBLvIS3E")
 model = genai.GenerativeModel('gemini-pro')
 
 prompt = "Write a story about a magic backpack that can grant wishes."
