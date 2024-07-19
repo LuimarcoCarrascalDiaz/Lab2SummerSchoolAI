@@ -1,5 +1,6 @@
-Example Name: A brief description of the example.
-Code: The Python code you executed.
-Expected Output: What you anticipated the code to produce.
+Example Name: Magic Backpack Story Generator
+Description: This example demonstrates how to use Google's Gemini API to generate a creative story based on a simple prompt.
+Code: The Python code I executed at the code.py file .
+Expected Output: A short story about a magic backpack that can grant wishes, including elements like a character who finds the backpack, the wishes they make, and the consequences or lessons learned.
 Actual Output: The results you observed after running the code.
-Observations: Any discrepancies, errors, or insights you gained.
+
